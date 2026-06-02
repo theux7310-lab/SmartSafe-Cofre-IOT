@@ -17,27 +17,27 @@ VIG TECH - Innovation in Technology
 
 ## Componentes
 
-- Arduino Uno R3
-- Teclado Matricial 4x4
-- Servo Motor SG90
-- Buzzer Ativo 5V
-- LED Verde
-- LED Vermelho
-- Resistores 220Ω
-- Protoboard
-- Jumpers
+Arduino Uno R3
+Teclado Matricial 4x4
+Servo Motor SG90
+Buzzer Ativo 5V
+LED Verde
+LED Vermelho
+Resistores 220Ω
+Protoboard
+Jumpers
 
 ## Funcionamento
 
 1. O usuário digita a senha.
 2. O Arduino verifica a senha.
 3. Se correta:
-   - LED verde acende
-   - Buzzer confirma
-   - Servo abre a trava
+LED verde acende
+Buzzer confirma
+Servo abre a trava
 4. Se incorreta:
-   - LED vermelho permanece ativo
-   - Buzzer sinaliza erro
+LED vermelho permanece ativo
+Buzzer sinaliza erro
 
 ## Arquivos
 
@@ -47,7 +47,7 @@ VIG TECH - Innovation in Technology
 
 ## Vídeo Demonstrativo
 
-(Adicionar link do vídeo)
+
 
 ## GitHub
 
