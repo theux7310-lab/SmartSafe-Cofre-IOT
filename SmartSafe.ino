@@ -88,6 +88,8 @@ void loop()
 
       tone(SOM, 1000, 150);
       delay(300);
+ 
+      aberto = false;
     }
 
     senhaDigitada = "";
